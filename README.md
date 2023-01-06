@@ -1,2 +1,2 @@
-# arduin-blink-uno
+# arduino-blink-uno
 Simple test for starting with PlatformIO
